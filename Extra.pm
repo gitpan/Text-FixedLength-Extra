@@ -27,9 +27,9 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 our @EXPORT = qw(fixedlength
 	
 );
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 
-our $debug = 1;
+our $debug = 0;
 
 
 # Preloaded methods go here.
